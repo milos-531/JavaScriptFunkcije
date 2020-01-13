@@ -1,0 +1,17 @@
+
+#dugme{
+    color: red;
+    width: 90px;
+    height: 30px;
+    margin-top: 30px;
+}
+
+#opcije{
+    margin-top: 30px;
+}
+
+#container {
+    background-color: lightblue;
+    padding-left: 600px;
+    padding-right: 600px;
+}
